@@ -66,3 +66,11 @@ traditional mathematical cryptographic techniques.
 `SineWaveVerticalXojo` & `LRC-2-DParityCheck` — Translating 
 real-world parity verification and wave data mechanics into 
 clear interactive visual patterns.
+
+
+---
+### Connect With Me
+* **Technical Publication Portfolio:** [Scientific 
+Specialties (SciSpec)](https://www.scispec.ca)
+* **Community Collaboration:** Active contributor on the 
+[Xojo Developer Forums](https://forum.xojo.com/)
