@@ -25,3 +25,44 @@ environments to manipulate physical hardware smoothly.
 technical documentation bridging software engineering with 
 applied scientific domains at [SciSpec](https://
 www.scispec.ca).
+
+## Core Technology Stack
+<table>
+ <tr>
+ <td align="center" width="96">
+ <img src="https://raw.githubusercontent.com/marwin1991/
+profile-technology-icons/main/icons/cpp.png" width="48" 
+height="48" alt="C++" />
+ <br />C / C++
+ </td>
+ <td align="center" width="96">
+ <img src="https://raw.githubusercontent.com/marwin1991/
+profile-technology-icons/main/icons/visual_studio.png" 
+width="48" height="48" alt="Visual Studio" />
+ <br />Visual Studio
+ </td>
+ <td align="center" width="96">
+ <img src="https://raw.githubusercontent.com/marwin1991/
+profile-technology-icons/main/icons/raspberry_pi.png" 
+width="48" height="48" alt="Raspberry Pi" />
+ <br />Embedded Pi
+ </td>
+ <td align="center" width="96">
+ <img src="https://raw.githubusercontent.com/marwin1991/
+profile-technology-icons/main/icons/linux.png" width="48" 
+height="48" alt="Linux" />
+ <br />Linux System
+ </td>
+ </tr>
+</table>
+---
+### Featured Repository Dimensions
+* ** Hardware Interfaces:** `lgpio-GPIO`, `pigpio-GPIO`, 
+and `Libgpiod-GPIO` — Native, reliable hardware communication 
+libraries.
+* ** Algorithmic Ciphers:** `PolyAlphabeticCipher` & `DESEncryption-Decryption` — Pure, performant implementations of 
+traditional mathematical cryptographic techniques.
+* ** Mechanics & Physics Visualizations:** 
+`SineWaveVerticalXojo` & `LRC-2-DParityCheck` — Translating 
+real-world parity verification and wave data mechanics into 
+clear interactive visual patterns.
