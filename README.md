@@ -70,7 +70,7 @@ libraries.
 * **Decryption/Encryption:**
 — Pure, performant implementations of traditional mathematical cryptographic techniques.
 - Mechanics & Physics Visualizations:
-* ** `SineWaveVerticalXojo` & `LRC-2-DParityCheck`
+* `SineWaveVerticalXojo` & `LRC-2-DParityCheck`
  — Translating real-world parity verification and wave data mechanics into clear interactive visual patterns.
 
 
