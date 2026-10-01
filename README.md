@@ -35,24 +35,25 @@ www.scispec.ca).
 ## Core Technology Stack
 <table>
   <tr>
-    <td align="center" width="96">
-      <img src="https://githubusercontent.com" width="48" height="48" alt="C++" />
-      <br />C / C++
+    <td align="center" width="110">
+      <span style="font-size: 32px;">⚙️</span>
+      <br /><b>C / C++</b>
     </td>
-    <td align="center" width="96">
-      <img src="https://githubusercontent.com" width="48" height="48" alt="Visual Studio" />
-      <br />Visual Studio
+    <td align="center" width="110">
+      <span style="font-size: 32px;">💻</span>
+      <br /><b>Visual Studio</b>
     </td>
-    <td align="center" width="96">
-      <img src="https://githubusercontent.com" width="48" height="48" alt="Raspberry Pi" />
-      <br />Embedded Pi
+    <td align="center" width="110">
+      <span style="font-size: 32px;">🍓</span>
+      <br /><b>Embedded Pi</b>
     </td>
-    <td align="center" width="96">
-      <img src="https://githubusercontent.com" width="48" height="48" alt="Linux" />
-      <br />Linux System
+    <td align="center" width="110">
+      <span style="font-size: 32px;">🐧</span>
+      <br /><b>Linux System</b>
     </td>
   </tr>
 </table>
+
 
 
 
