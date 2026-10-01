@@ -63,12 +63,18 @@ height="48" alt="Linux" />
 </table>
 
 ### Featured Repository Dimensions
-* ** Hardware Interfaces:** `lgpio-GPIO`, `pigpio-GPIO`, 
+* **Hardware Interfaces:** `lgpio-GPIO`, `pigpio-GPIO`, 
 and `Libgpiod-GPIO` — Native, reliable hardware communication 
 libraries.
-* ** Algorithmic Ciphers:** `PolyAlphabeticCipher` & `DES Encryption-Decryption` — Pure, performant implementations of 
+* # The Digital Alchemist | Eugene Dakin 
+
+<p align="center">
+  <sub><b>🔮 PERSONA:</b> The Digital Alchemist</sub> 
+  &nbsp;&nbsp;•&nbsp;&nbsp; 
+  <sub><b>🤖 SPECIALTY:</b> Hardware & Software Bridge</sub>
+</p>-Decryption` — Pure, performant implementations of 
 traditional mathematical cryptographic techniques.
-* ** Mechanics & Physics Visualizations:** 
+* **Mechanics & Physics Visualizations:** 
 `SineWaveVerticalXojo` & `LRC-2-DParityCheck` — Translating 
 real-world parity verification and wave data mechanics into 
 clear interactive visual patterns.
