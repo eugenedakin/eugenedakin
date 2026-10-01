@@ -66,7 +66,7 @@ height="48" alt="Linux" />
 * ** Hardware Interfaces:** `lgpio-GPIO`, `pigpio-GPIO`, 
 and `Libgpiod-GPIO` — Native, reliable hardware communication 
 libraries.
-* ** Algorithmic Ciphers:** `PolyAlphabeticCipher` & `DESEncryption-Decryption` — Pure, performant implementations of 
+* ** Algorithmic Ciphers:** `PolyAlphabeticCipher` & `DES Encryption-Decryption` — Pure, performant implementations of 
 traditional mathematical cryptographic techniques.
 * ** Mechanics & Physics Visualizations:** 
 `SineWaveVerticalXojo` & `LRC-2-DParityCheck` — Translating 
