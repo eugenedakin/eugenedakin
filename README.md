@@ -55,6 +55,7 @@ www.scispec.ca).
 </table>
 
 
+
 ### Featured Repository Dimensions
 * **Hardware Interfaces:** `lgpio-GPIO`, `pigpio-GPIO`, 
 and `Libgpiod-GPIO` — Native, reliable hardware communication 
