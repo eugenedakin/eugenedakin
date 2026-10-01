@@ -67,14 +67,11 @@ height="48" alt="Linux" />
 and `Libgpiod-GPIO` — Native, reliable hardware communication 
 libraries.
 
-<p align="center">
-  
-</p>-Decryption` — Pure, performant implementations of 
-traditional mathematical cryptographic techniques.
-* **Mechanics & Physics Visualizations:** 
-`SineWaveVerticalXojo` & `LRC-2-DParityCheck` — Translating 
-real-world parity verification and wave data mechanics into 
-clear interactive visual patterns.
+-Decryption 
+— Pure, performant implementations of traditional mathematical cryptographic techniques.
+* **Mechanics & Physics Visualizations:
+** `SineWaveVerticalXojo` & `LRC-2-DParityCheck`
+ — Translating real-world parity verification and wave data mechanics into clear interactive visual patterns.
 
 
 ---
