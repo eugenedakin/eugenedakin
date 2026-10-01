@@ -67,7 +67,7 @@ height="48" alt="Linux" />
 and `Libgpiod-GPIO` — Native, reliable hardware communication 
 libraries.
 
--Decryption 
+* **Decryption:**
 — Pure, performant implementations of traditional mathematical cryptographic techniques.
 - Mechanics & Physics Visualizations:
 ** `SineWaveVerticalXojo` & `LRC-2-DParityCheck`
