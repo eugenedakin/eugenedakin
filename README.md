@@ -34,33 +34,26 @@ www.scispec.ca).
 
 ## Core Technology Stack
 <table>
- <tr>
- <td align="center" width="96">
- <img src="https://raw.githubusercontent.com/marwin1991/
-profile-technology-icons/main/icons/cpp.png" width="48" 
-height="48" alt="C++" />
- <br />C / C++
- </td>
- <td align="center" width="96">
- <img src="https://raw.githubusercontent.com/marwin1991/
-profile-technology-icons/main/icons/visual_studio.png" 
-width="48" height="48" alt="Visual Studio" />
- <br />Visual Studio
- </td>
- <td align="center" width="96">
- <img src="https://raw.githubusercontent.com/marwin1991/
-profile-technology-icons/main/icons/raspberry_pi.png" 
-width="48" height="48" alt="Raspberry Pi" />
- <br />Embedded Pi
- </td>
- <td align="center" width="96">
- <img src="https://raw.githubusercontent.com/marwin1991/
-profile-technology-icons/main/icons/linux.png" width="48" 
-height="48" alt="Linux" />
- <br />Linux System
- </td>
- </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://githubusercontent.com" width="48" height="48" alt="C++" />
+      <br />C / C++
+    </td>
+    <td align="center" width="96">
+      <img src="https://githubusercontent.com" width="48" height="48" alt="Visual Studio" />
+      <br />Visual Studio
+    </td>
+    <td align="center" width="96">
+      <img src="https://githubusercontent.com" width="48" height="48" alt="Raspberry Pi" />
+      <br />Embedded Pi
+    </td>
+    <td align="center" width="96">
+      <img src="https://githubusercontent.com" width="48" height="48" alt="Linux" />
+      <br />Linux System
+    </td>
+  </tr>
 </table>
+
 
 ### Featured Repository Dimensions
 * **Hardware Interfaces:** `lgpio-GPIO`, `pigpio-GPIO`, 
