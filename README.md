@@ -1,8 +1,11 @@
+
+
 # The Digital Alchemist | Eugene Dakin 
 
-<p align="center"> 
-  <img src="https://shields.io" alt="Persona" /> 
-  <img src="https://shields.io" alt="Specialty" />
+<p align="center">
+  <sub><b>🔮 PERSONA:</b> The Digital Alchemist</sub> 
+  &nbsp;&nbsp;•&nbsp;&nbsp; 
+  <sub><b>🤖 SPECIALTY:</b> Hardware & Software Bridge</sub>
 </p>
 
  <img src="https://img.shields.io/badge/CommunityXojo%20Champion-orange?style=for-the-badge" alt="Xojo 
