@@ -33,26 +33,49 @@ applied scientific domains at [SciSpec](https://
 www.scispec.ca).
 
 ## Core Technology Stack
+<div align="center">
 <table>
+  <!-- Row 1: Environments & Systems -->
   <tr>
-    <td align="center" width="110">
+    <td align="center" width="120">
       <span style="font-size: 32px;">⚙️</span>
       <br /><b>C / C++</b>
     </td>
-    <td align="center" width="110">
+    <td align="center" width="120">
       <span style="font-size: 32px;">💻</span>
       <br /><b>Visual Studio</b>
     </td>
-    <td align="center" width="110">
+    <td align="center" width="120">
       <span style="font-size: 32px;">🍓</span>
       <br /><b>Embedded Pi</b>
     </td>
-    <td align="center" width="110">
+    <td align="center" width="120">
       <span style="font-size: 32px;">🐧</span>
       <br /><b>Linux System</b>
     </td>
   </tr>
+  <!-- Row 2: Additional Programming Languages -->
+  <tr>
+    <td align="center" width="120">
+      <span style="font-size: 32px;">🐍</span>
+      <br /><b>Python</b>
+    </td>
+    <td align="center" width="120">
+      <span style="font-size: 32px;">🌐</span>
+      <br /><b>JavaScript</b>
+    </td>
+    <td align="center" width="120">
+      <span style="font-size: 32px;">☕</span>
+      <br /><b>Java</b>
+    </td>
+    <td align="center" width="120">
+      <span style="font-size: 32px;">🦀</span>
+      <br /><b>Rust</b>
+    </td>
+  </tr>
 </table>
+</div>
+
 
 
 
