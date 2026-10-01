@@ -69,9 +69,7 @@ libraries.
 * # The Digital Alchemist | Eugene Dakin 
 
 <p align="center">
-  <sub><b>🔮 PERSONA:</b> The Digital Alchemist</sub> 
-  &nbsp;&nbsp;•&nbsp;&nbsp; 
-  <sub><b>🤖 SPECIALTY:</b> Hardware & Software Bridge</sub>
+  
 </p>-Decryption` — Pure, performant implementations of 
 traditional mathematical cryptographic techniques.
 * **Mechanics & Physics Visualizations:** 
