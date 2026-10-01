@@ -17,7 +17,7 @@ Community" />
 I compile code to manipulate the physical world. With a 
 professional background bridging chemistry, biology, mechanics, 
 and electronics, my software doesn't just live on a screen—it 
-interacts with the environment. I specialize in building ultrastable, long-lifecycle native wrappers, low-level GPIO 
+interacts with the environment. I specialize in building ultrastable, long-lifecycle native wrappers, low-level GPIO 
 communication layers, and deep algorithmic ciphers.
 * **Current Projects:** Optimizing `lgpio` and `pigpio` 
 C-wrappers for robust cross-platform desktop integration.
