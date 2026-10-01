@@ -66,7 +66,6 @@ height="48" alt="Linux" />
 * **Hardware Interfaces:** `lgpio-GPIO`, `pigpio-GPIO`, 
 and `Libgpiod-GPIO` — Native, reliable hardware communication 
 libraries.
-* # The Digital Alchemist | Eugene Dakin 
 
 <p align="center">
   
