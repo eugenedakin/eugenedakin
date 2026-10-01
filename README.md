@@ -8,7 +8,7 @@
   <sub><b>🤖 SPECIALTY:</b> Hardware & Software Bridge</sub>
 </p>
 
- <img src="https://img.shields.io/badge/CommunityXojo Champion-orange?style=for-the-badge" alt="Xojo 
+ <img src="https://img.shields.io/badge/Community Xojo Champion-orange?style=for-the-badge" alt="Xojo 
 Community" />
 </p>
 ---
