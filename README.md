@@ -71,10 +71,11 @@ www.scispec.ca).
   <!-- Row 3: Additional Programming Languages -->
   <tr> 
   <td align="center" width="120"> 
-    <span style="font-size: 32px;">%E2%9D%BE</span> 
+    <img src="https://shields.io" alt="Xojo" width="85" />
     <br /><b>Xojo</b> 
   </td> 
 </tr>
+
 </table>
 </div>
 
