@@ -1,4 +1,4 @@
-
+I
 
 # The Digital Alchemist | Eugene Dakin 
 
@@ -67,10 +67,9 @@ www.scispec.ca).
       <span style="font-size: 32px;">☕</span>
       <br /><b>Java</b>
     </td>
-    <td align="center" width="120">
-      <span style="font-size: 32px;">🦀</span>
-      <br /><b>Rust</b>
-    </td>
+  </tr>
+  <!-- Row 2: Additional Programming Languages -->
+  <tr>
     <td align="center" width="120">
       <span style="font-size: 32px;">🦀</span>
       <br /><b>Xojo</b>
