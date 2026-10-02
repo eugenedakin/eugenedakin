@@ -73,6 +73,16 @@ www.scispec.ca).
     <br /><b>Xojo</b> 
   </td> 
 </tr>
+<tr> 
+  <td align="center" width="120"> 
+    <span style="font-size: 32px;">🗄️</span> 
+    <br /><b>SQL</b> 
+  </td> 
+  <td align="center" width="120"> 
+    <span style="font-size: 32px;">💾</span> 
+    <br /><b>SQLite</b> 
+  </td> 
+</tr>
 
 </table>
 </div>
