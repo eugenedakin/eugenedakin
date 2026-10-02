@@ -67,7 +67,7 @@ www.scispec.ca).
     </td>
   <td align="center" width="120"> 
     <span style="font-size: 32px;">🩵</span> 
-    <br /><b>Windows 11</b> 
+    <br /><b>Windows</b> 
   </td> 
 
   </tr>
