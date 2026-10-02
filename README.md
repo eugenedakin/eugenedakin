@@ -71,7 +71,7 @@ www.scispec.ca).
   <!-- Row 3: Additional Programming Languages -->
   <tr> 
   <td align="center" width="120"> 
-    <img src="https://shields.io" alt="Xojo" width="85" />
+    <span style="font-size: 32px;">💻</span> 
     <br /><b>Xojo</b> 
   </td> 
 </tr>
