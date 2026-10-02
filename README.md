@@ -69,12 +69,12 @@ www.scispec.ca).
     </td>
   </tr>
   <!-- Row 2: Additional Programming Languages -->
-  <tr>
-    <td align="center" width="120">
-      <span style="font-size: 32px;">🦀</span>
-      <br /><b>Xojo</b>
-    </td>
-  </tr>
+  <tr> 
+  <td align="center" width="120"> 
+    <span style="font-size: 32px;">%E2%9D%BE</span> 
+    <br /><b>Xojo</b> 
+  </td> 
+</tr>
 </table>
 </div>
 
