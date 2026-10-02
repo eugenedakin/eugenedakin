@@ -91,7 +91,7 @@ www.scispec.ca).
   </td> 
 
 </tr>
- <!-- Row 3: Additional Programming Languages -->
+ <!-- Row 4: Additional Programming Languages -->
   <tr> 
   <tr> 
     <td align="center" width="120"> 
@@ -106,6 +106,11 @@ www.scispec.ca).
       <span style="font-size: 32px;">🪟</span> 
       <br /><b>Win32</b> 
     </td> 
+  <td align="center" width="120"> 
+    <span style="font-size: 32px;">🎨</span> 
+    <br /><b>Canvas</b> 
+  </td> 
+
   </tr>
 
 </tr>
