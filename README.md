@@ -71,6 +71,10 @@ www.scispec.ca).
       <span style="font-size: 32px;">🦀</span>
       <br /><b>Rust</b>
     </td>
+    <td align="center" width="120">
+      <span style="font-size: 32px;">🦀</span>
+      <br /><b>Xojo</b>
+    </td>
   </tr>
 </table>
 </div>
