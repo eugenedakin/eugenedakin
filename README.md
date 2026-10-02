@@ -85,6 +85,11 @@ www.scispec.ca).
     <span style="font-size: 32px;">💾</span> 
     <br /><b>SQLite</b> 
   </td> 
+  <td align="center" width="120"> 
+    <span style="font-size: 32px;">📐</span> 
+    <br /><b>OpenGL</b> 
+  </td> 
+
 </tr>
  <!-- Row 3: Additional Programming Languages -->
   <tr> 
