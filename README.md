@@ -68,7 +68,7 @@ www.scispec.ca).
       <br /><b>Java</b>
     </td>
   </tr>
-  <!-- Row 2: Additional Programming Languages -->
+  <!-- Row 3: Additional Programming Languages -->
   <tr> 
   <td align="center" width="120"> 
     <span style="font-size: 32px;">%E2%9D%BE</span> 
