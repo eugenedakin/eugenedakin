@@ -81,7 +81,24 @@ www.scispec.ca).
     <br /><b>SQLite</b> 
   </td> 
 </tr>
+ <!-- Row 3: Additional Programming Languages -->
+  <tr> 
+  <tr> 
+    <td align="center" width="120"> 
+      <span style="font-size: 32px;">🐘</span> 
+      <br /><b>PostgreSQL</b> 
+    </td> 
+    <td align="center" width="120"> 
+      <span style="font-size: 32px;">🛠️</span> 
+      <br /><b>WMIC</b> 
+    </td> 
+    <td align="center" width="120"> 
+      <span style="font-size: 32px;">🪟</span> 
+      <br /><b>Win32</b> 
+    </td> 
+  </tr>
 
+</tr>
 </table>
 </div>
 
