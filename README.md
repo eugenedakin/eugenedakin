@@ -31,7 +31,7 @@ applied scientific domains at [SciSpec](https://www.scispec.ca).
 ## Core Technology Stack
 <div align="center">
 <table>
-  <!-- Row 1: Environments & Systems -->
+  <!-- Row 1: Environments & Systems (Light/Odd) -->
   <tr>
     <td align="center" width="120">
       <span style="font-size: 32px;">⚙️</span>
@@ -50,7 +50,8 @@ applied scientific domains at [SciSpec](https://www.scispec.ca).
       <br /><b>Linux System</b>
     </td>
   </tr>
-  <!-- Row 2: Additional Programming Languages -->
+
+  <!-- Row 2: Additional Programming Languages (Highlighted/Even) -->
   <tr>
     <td align="center" width="120">
       <span style="font-size: 32px;">🐍</span>
@@ -64,34 +65,33 @@ applied scientific domains at [SciSpec](https://www.scispec.ca).
       <span style="font-size: 32px;">☕</span>
       <br /><b>Java</b>
     </td>
-  <td align="center" width="120"> 
-    <span style="font-size: 32px;">🩵</span> 
-    <br /><b>Windows</b> 
-  </td> 
-
+    <td align="center" width="120"> 
+      <span style="font-size: 32px;">🩵</span> 
+      <br /><b>Windows</b> 
+    </td> 
   </tr>
-  <!-- Row 3: Additional Programming Languages -->
-  <tr> 
-  <td align="center" width="120"> 
-    <span style="font-size: 32px;">💻</span> 
-    <br /><b>Xojo</b> 
-  </td> 
-  <td align="center" width="120"> 
-    <span style="font-size: 32px;">🗄️</span> 
-    <br /><b>SQL</b> 
-  </td> 
-  <td align="center" width="120"> 
-    <span style="font-size: 32px;">💾</span> 
-    <br /><b>SQLite</b> 
-  </td> 
-  <td align="center" width="120"> 
-    <span style="font-size: 32px;">📐</span> 
-    <br /><b>OpenGL</b> 
-  </td> 
 
-</tr>
- <!-- Row 4: Additional Programming Languages -->
+  <!-- Row 3: Additional Programming Languages (Light/Odd) -->
   <tr> 
+    <td align="center" width="120"> 
+      <span style="font-size: 32px;">💻</span> 
+      <br /><b>Xojo</b> 
+    </td> 
+    <td align="center" width="120"> 
+      <span style="font-size: 32px;">🗄️</span> 
+      <br /><b>SQL</b> 
+    </td> 
+    <td align="center" width="120"> 
+      <span style="font-size: 32px;">💾</span> 
+      <br /><b>SQLite</b> 
+    </td> 
+    <td align="center" width="120"> 
+      <span style="font-size: 32px;">📐</span> 
+      <br /><b>OpenGL</b> 
+    </td> 
+  </tr>
+
+  <!-- Row 4: Additional Programming Languages (Highlighted/Even) -->
   <tr> 
     <td align="center" width="120"> 
       <span style="font-size: 32px;">🐘</span> 
@@ -105,40 +105,33 @@ applied scientific domains at [SciSpec](https://www.scispec.ca).
       <span style="font-size: 32px;">🪟</span> 
       <br /><b>Win32 API</b> 
     </td> 
-  <td align="center" width="120"> 
-    <span style="font-size: 32px;">🎨</span> 
-    <br /><b>Canvas</b> 
-  </td> 
+    <td align="center" width="120"> 
+      <span style="font-size: 32px;">🎨</span> 
+      <br /><b>Canvas</b> 
+    </td> 
   </tr>
 
-</tr>
-<!-- Row 5: Additional Programming Languages -->
+  <!-- Row 5: Additional Programming Languages (Light/Odd) -->
   <tr> 
-  <tr> 
-     <td align="center" width="120">
+    <td align="center" width="120">
       <span style="font-size: 32px;">💻</span>
-      <br/><b>VBA</b>
+      <br /><b>VBA</b>
     </td>
-      <td align="center" width="120">
-        <span style="font-size: 32px;">📊</span>
-        <br/><b>VBA for Excel</b>
-      </td>
-      <td align="center" width="120">
-        <span style="font-size: 32px;">📝</span>
-        <br/><b>VBA for Word & Access</b>
-      </td>
-      <td align="center" width="120">
-        <span style="font-size: 32px;">🗄️</span>
-        <br/><b>VBA for Access</b>
-      </td>
+    <td align="center" width="120">
+      <span style="font-size: 32px;">📊</span>
+      <br /><b>VBA for Excel</b>
+    </td>
+    <td align="center" width="120">
+      <span style="font-size: 32px;">📝</span>
+      <br /><b>VBA for Word & Access</b>
+    </td>
+    <td align="center" width="120">
+      <span style="font-size: 32px;">🗄️</span>
+      <br /><b>VBA for Access</b>
+    </td>
   </tr>
-</tr>
 </table>
 </div>
-
-
-
-
 
 ### Featured Repository Dimensions
 * **Hardware Interfaces:** `lgpio-GPIO`, `pigpio-GPIO`, 
