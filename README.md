@@ -26,8 +26,7 @@ software hooks that empower high-level object-oriented
 environments to manipulate physical hardware smoothly.
 * **Scientific Writing:** Author and maintainer of 
 technical documentation bridging software engineering with 
-applied scientific domains at [SciSpec](https://
-www.scispec.ca).
+applied scientific domains at [SciSpec](https://www.scispec.ca).
 
 ## Core Technology Stack
 <div align="center">
@@ -137,4 +136,4 @@ libraries.
 * **Technical Publication Portfolio:** [Scientific 
 Specialties (SciSpec)](https://www.scispec.ca)
 * **Community Collaboration:** Active contributor on the 
-[Xojo Developer Forums](https://forum.xojo.com/)
+[Xojo Developer Forums](https://forum.xojo.com/)
