@@ -31,39 +31,19 @@ applied scientific domains at [SciSpec](https://www.scispec.ca).
 ## Core Technology Stack
 <div align="center">
 <table>
-  <!-- Row 1: Environments & Systems (Light/Odd) -->
+  <!-- Row 1: Systems & Core Programming (Light/Odd) -->
   <tr>
     <td align="center" width="120">
       <span style="font-size: 32px;">⚙️</span>
       <br /><b>C / C++</b>
     </td>
     <td align="center" width="120">
-      <span style="font-size: 32px;">💻</span>
-      <br /><b>Visual Studio</b>
+      <span style="font-size: 32px;">☕</span>
+      <br /><b>Java</b>
     </td>
-    <td align="center" width="120">
-      <span style="font-size: 32px;">🍓</span>
-      <br /><b>Embedded Pi</b>
-    </td>
-    <td align="center" width="120">
-      <span style="font-size: 32px;">🐧</span>
-      <br /><b>Linux System</b>
-    </td>
-  </tr>
-
-  <!-- Row 2: Additional Programming Languages (Highlighted/Even) -->
-  <tr>
     <td align="center" width="120">
       <span style="font-size: 32px;">🐍</span>
       <br /><b>Python</b>
-    </td>
-    <td align="center" width="120">
-      <span style="font-size: 32px;">🌐</span>
-      <br /><b>JavaScript</b>
-    </td>
-    <td align="center" width="120">
-      <span style="font-size: 32px;">☕</span>
-      <br /><b>Java</b>
     </td>
     <td align="center" width="120"> 
       <span style="font-size: 32px;">🩵</span> 
@@ -71,12 +51,28 @@ applied scientific domains at [SciSpec](https://www.scispec.ca).
     </td> 
   </tr>
 
-  <!-- Row 3: Additional Programming Languages (Light/Odd) -->
-  <tr> 
+  <!-- Row 2: Interfaces, Graphics & IDEs (Highlighted/Even) -->
+  <tr>
+    <td align="center" width="120">
+      <span style="font-size: 32px;">🌐</span>
+      <br /><b>JavaScript</b>
+    </td>
+    <td align="center" width="120">
+      <span style="font-size: 32px;">🎨</span>
+      <br /><b>Canvas</b>
+    </td>
+    <td align="center" width="120">
+      <span style="font-size: 32px;">📐</span>
+      <br /><b>OpenGL</b>
+    </td>
     <td align="center" width="120"> 
-      <span style="font-size: 32px;">💻</span> 
+      <span style="font-size: 32px;">🎛️</span> 
       <br /><b>Xojo</b> 
     </td> 
+  </tr>
+
+  <!-- Row 3: Databases & Low-Level Architecture (Light/Odd) -->
+  <tr> 
     <td align="center" width="120"> 
       <span style="font-size: 32px;">🗄️</span> 
       <br /><b>SQL</b> 
@@ -86,35 +82,39 @@ applied scientific domains at [SciSpec](https://www.scispec.ca).
       <br /><b>SQLite</b> 
     </td> 
     <td align="center" width="120"> 
-      <span style="font-size: 32px;">📐</span> 
-      <br /><b>OpenGL</b> 
+      <span style="font-size: 32px;">🐘</span> 
+      <br /><b>PostgreSQL</b> 
+    </td> 
+    <td align="center" width="120"> 
+      <span style="font-size: 32px;">🪟</span> 
+      <br /><b>Win32 API</b> 
     </td> 
   </tr>
 
-  <!-- Row 4: Additional Programming Languages (Highlighted/Even) -->
+  <!-- Row 4: Systems Operations & Tooling (Highlighted/Even) -->
   <tr> 
     <td align="center" width="120"> 
-      <span style="font-size: 32px;">🐘</span> 
-      <br /><b>PostgreSQL</b> 
+      <span style="font-size: 32px;">🐧</span> 
+      <br /><b>Linux System</b> 
     </td> 
     <td align="center" width="120"> 
       <span style="font-size: 32px;">🛠️</span> 
       <br /><b>WMIC</b> 
     </td> 
     <td align="center" width="120"> 
-      <span style="font-size: 32px;">🪟</span> 
-      <br /><b>Win32 API</b> 
+      <span style="font-size: 32px;">🔮</span> 
+      <br /><b>Visual Studio</b> 
     </td> 
     <td align="center" width="120"> 
-      <span style="font-size: 32px;">🎨</span> 
-      <br /><b>Canvas</b> 
+      <span style="font-size: 32px;">🍓</span> 
+      <br /><b>Embedded Pi</b> 
     </td> 
   </tr>
 
-  <!-- Row 5: Additional Programming Languages (Light/Odd) -->
+  <!-- Row 5: Automation & Enterprise Scripting (Light/Odd) -->
   <tr> 
     <td align="center" width="120">
-      <span style="font-size: 32px;">💻</span>
+      <span style="font-size: 32px;">🤖</span>
       <br /><b>VBA</b>
     </td>
     <td align="center" width="120">
@@ -126,12 +126,13 @@ applied scientific domains at [SciSpec](https://www.scispec.ca).
       <br /><b>VBA for Word & Access</b>
     </td>
     <td align="center" width="120">
-      <span style="font-size: 32px;">🗄️</span>
+      <span style="font-size: 32px;">📦</span>
       <br /><b>VBA for Access</b>
     </td>
   </tr>
 </table>
 </div>
+
 
 ### Featured Repository Dimensions
 * **Hardware Interfaces:** `lgpio-GPIO`, `pigpio-GPIO`, 
