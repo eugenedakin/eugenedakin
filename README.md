@@ -103,7 +103,7 @@ applied scientific domains at [SciSpec](https://www.scispec.ca).
     </td> 
     <td align="center" width="120"> 
       <span style="font-size: 32px;">🪟</span> 
-      <br /><b>Win32</b> 
+      <br /><b>Win32 API</b> 
     </td> 
   <td align="center" width="120"> 
     <span style="font-size: 32px;">🎨</span> 
