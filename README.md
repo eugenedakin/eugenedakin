@@ -109,10 +109,34 @@ applied scientific domains at [SciSpec](https://www.scispec.ca).
     <span style="font-size: 32px;">🎨</span> 
     <br /><b>Canvas</b> 
   </td> 
-
   </tr>
 
 </tr>
+<!-- Row 5: Additional Programming Languages -->
+  <tr> 
+  <tr> 
+   <td align="center" width="120">
+  <span style="font-size: 32px;">💻</span>
+  <br /><b>VBA</b>
+</td>
+    <td align="center" width="120">
+  <span style="font-size: 32px;">📊</span>
+  <br /><b>VBA for Excel</b>
+</td>
+
+    <td align="center" width="120">
+  <span style="font-size: 32px;">📝</span>
+  <br /><b>VBA for Word & Access</b>
+</td>
+
+<td align="center" width="120">
+  <span style="font-size: 32px;">🗄️</span>
+  <br /><b>VBA for Access</b>
+</td>
+  </tr>
+
+</tr>
+
 </table>
 </div>
 
