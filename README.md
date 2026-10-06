@@ -139,11 +139,8 @@ applied scientific domains at [SciSpec](https://www.scispec.ca).
 and `Libgpiod-GPIO` — Native, reliable hardware communication 
 libraries.
 
-* **Decryption/Encryption:**
- - Pure, performant implementations of traditional mathematical cryptographic techniques.
-* **Mechanics & Physics Visualizations:** -`SineWaveVerticalXojo` & `LRC-2-DParityCheck`
- - Translating real-world parity verification and wave data mechanics into clear interactive visual patterns.
-
+* **Decryption/Encryption:** Pure, performant implementations of traditional mathematical cryptographic techniques.
+* **Mechanics & Physics Visualizations:** -`SineWaveVerticalXojo` & `LRC-2-DParityCheck` Translating real-world parity verification and wave data mechanics into clear interactive visual patterns.
 
 ---
 ### Connect With Me
