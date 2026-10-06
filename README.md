@@ -136,11 +136,11 @@ applied scientific domains at [SciSpec](https://www.scispec.ca).
 
 ### Featured Repository Dimensions
 * **Hardware Interfaces:** `lgpio-GPIO`, `pigpio-GPIO`, 
-and `Libgpiod-GPIO` — Native, reliable hardware communication 
+and `Libgpiod-GPIO`. Native, reliable hardware communication 
 libraries.
 
 * **Decryption/Encryption:** Pure, performant implementations of traditional mathematical cryptographic techniques.
-* **Mechanics & Physics Visualizations:** -`SineWaveVerticalXojo` & `LRC-2-DParityCheck` Translating real-world parity verification and wave data mechanics into clear interactive visual patterns.
+* **Mechanics & Physics Visualizations:** -`SineWaveVerticalXojo` & `LRC-2-DParityCheck`. Translating real-world parity verification and wave data mechanics into clear interactive visual patterns.
 
 ---
 ### Connect With Me
